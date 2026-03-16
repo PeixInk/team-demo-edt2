@@ -39,5 +39,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.DemoConfDT</constants>
   <catalogs>Catalog.DemoConfDT</catalogs>
 </mdclass:Configuration>
