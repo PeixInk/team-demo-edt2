@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="07200529-b62a-4fe9-bd1c-0e73d3e502d2">
+  <producedTypes>
+    <refType typeId="b6dec358-11ce-4ca3-a286-11a7add8ed14" valueTypeId="a11ac353-fc9e-4985-89ca-a9a0cd96ed27"/>
+    <listType typeId="4853cce2-e001-42ca-b5c1-c646d73768be" valueTypeId="cddb31ac-7f3e-488e-b168-6da19bfa7ec3"/>
+    <managerType typeId="8bb038fc-ccec-4e9d-9b8f-a620a750f396" valueTypeId="99c6022d-289b-4b25-bd00-163f8ba0f8f3"/>
+  </producedTypes>
+  <name>DemoConfDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Demo conf DT</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>
