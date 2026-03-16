@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4d9a0b6a-ebba-40f4-a2e7-e5dace1de424">
+  <producedTypes>
+    <objectType typeId="9b2d533c-df9b-43ab-a936-4dd1fd771866" valueTypeId="630002e6-f91f-4b9d-9b5f-9902b704b0b3"/>
+    <refType typeId="eaf94fae-5478-464c-bcee-7b1437811c20" valueTypeId="441a127b-460d-4c85-b7f7-fbbea1471365"/>
+    <selectionType typeId="5b6017f7-6c86-4fde-be59-c9646b418f40" valueTypeId="5f15f462-bbd7-449a-987a-d46b2c19dd0f"/>
+    <listType typeId="6273d67f-95ec-4cbc-8c98-186f6fa7a4db" valueTypeId="50729c39-aeb8-4abc-8705-6bed0dc9f056"/>
+    <managerType typeId="1d1d0224-d220-404d-a471-792caf4a831d" valueTypeId="7b6c9f75-0cf9-4f8d-9ec2-6a0188b5c281"/>
+  </producedTypes>
+  <name>DemoConfDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Demo conf DT</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.DemoConfDT.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
